@@ -1,5 +1,0 @@
-Para hacer un git ignore se utiliza para ignorar archivos cuando se van a subir al repositorio de github
-
-comando:
-
-	archivo.gitignore
